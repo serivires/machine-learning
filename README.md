@@ -18,7 +18,7 @@
 ### 
   - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
   - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
-  - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+  - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   
 ### 추천도서
   - [텐서플로 첫걸음](http://book.naver.com/bookdb/book_detail.nhn?bid=10961940)
