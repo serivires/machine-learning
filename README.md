@@ -15,8 +15,8 @@
 ### 슬라이드
   - [Ai 그까이거](http://www.slideshare.net/dhrim/ai-70388526)
 
-### 
-  - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
+### 강의
+  - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
   - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
   - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   
