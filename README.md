@@ -12,6 +12,7 @@
   - [인공 신경망으로 '퐁' 게임을 학습시키자](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html)
     - [(원문)Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
   - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+  - [Deep Learning Papers](https://github.com/sbrugman/deep-learning-papers)
   
 ### 슬라이드
   - [Ai 그까이거](http://www.slideshare.net/dhrim/ai-70388526)
