@@ -13,7 +13,8 @@
     - [(원문)Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
   - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
   - [Deep Learning Papers](https://github.com/sbrugman/deep-learning-papers)
-   - [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
+  - [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
+  - [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
    
 ### 슬라이드
   - [Ai 그까이거](http://www.slideshare.net/dhrim/ai-70388526)
