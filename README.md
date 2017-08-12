@@ -16,6 +16,8 @@
   - [Comparison of deep learning software](https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software)
   - [TensorFlow Tutorials](https://github.com/golbin/TensorFlow-Tutorials)
   - [TensorFlow World](https://github.com/astorfi/TensorFlow-World)
+  - [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
+  - [PySC2 - StarCraft II Learning Environment](https://github.com/deepmind/pysc2)
    
 ### 슬라이드
   - [Ai 그까이거](http://www.slideshare.net/dhrim/ai-70388526)
