@@ -31,3 +31,4 @@
   - [밑바닥부터 시작하는 딥러닝 : 파이썬으로 익히는 딥러닝 이론과 구현](http://book.naver.com/bookdb/book_detail.nhn?bid=11492334)
     - [샘플코드 저장소](https://github.com/WegraLee/deep-learning-from-scratch)
   - [파이썬과 케라스로 배우는 강화학습](http://book.naver.com/bookdb/book_detail.nhn?bid=12299291)
+      - [샘플코드 저장소](https://github.com/rlcode/reinforcement-learning-kr)
