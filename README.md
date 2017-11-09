@@ -25,8 +25,7 @@
 
 ### 강의
   - [모두를 위한 머신러닝/딥러닝 강의(ko)](https://hunkim.github.io/ml/)
-  - [데이터 사이언스 스쿨(ko)](https://datascienceschool.net/)
-
+  - [데이터 사이언스 스쿨(ko)](https://datascienceschool.net/)
   - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
   - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
