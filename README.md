@@ -18,12 +18,15 @@
   - [TensorFlow World](https://github.com/astorfi/TensorFlow-World)
   - [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)
   - [PySC2 - StarCraft II Learning Environment](https://github.com/deepmind/pysc2)
-   
+  - [Deep Architecture Genealogy](https://github.com/hemanth/functional-programming-jargon)
+
 ### 슬라이드
   - [Ai 그까이거](http://www.slideshare.net/dhrim/ai-70388526)
 
 ### 강의
-  - [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)
+  - [모두를 위한 머신러닝/딥러닝 강의(ko)](https://hunkim.github.io/ml/)
+  - [데이터 사이언스 스쿨(ko)](https://datascienceschool.net/)
+
   - [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
   - [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
